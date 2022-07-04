@@ -1,0 +1,7 @@
+<Mod
+		name="Always Cast Anvil"
+		description="Place a wand with an always cast on the anvil and either receive a usable spell copy of the alwys cast at the cost of the wand, or have the always cast removed. Behavior is configurable."
+		tags="gameplay,quality of life,spells"
+		request_no_api_restrictions="0" 
+> 
+</Mod>
